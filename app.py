@@ -15,6 +15,7 @@ import cv2
 import numpy as np
 
 
+
 app = Flask('gold')
 
 @app.route('/')
